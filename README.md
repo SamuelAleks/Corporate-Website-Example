@@ -1,5 +1,5 @@
 <h4>Authorship</h4>
-<p>A simple webpage designed with collaboration from Jesse Blahnik, Jacob Maschka, and Samuel Aleks.</p>
+<p>A simple website designed with collaboration from Jesse Blahnik, Jacob Maschka, and Samuel Aleks.</p>
 <h2>Introduction</h2>
 <p>This project was done to fulfill class requirements for the final project in CS 344 (Introduction to Web Programming) at Winona State University in Spring, 2023, under the professorship of Daniel Nash. The entire development took place in pure CSS+HTML with no assistance from any external frameworks.</p>
 <h2>Hosting</h2>
