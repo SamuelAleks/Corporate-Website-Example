@@ -6,3 +6,7 @@
 <p>The website was initially hosted on a VPS provided by Hostinger, running Apache. Website HTTPS certification was achieved using certbot. Renewal of the certification was accomplished by creating a monthly cronjob. UFW was used as a firewall to prevent unneseccary ports from being opened.</p>
 <h2>Archive</h2>
 <p>The archive of the original website can be seen <a href="https://web.archive.org/web/20230430024716/https://154.49.137.71/">here</a></p>
+<h2>Screenshots</h2>
+![image](https://user-images.githubusercontent.com/52430965/235405282-eeac5455-5c26-4efb-b2d8-dc073c1430fa.png)
+![image](https://user-images.githubusercontent.com/52430965/235405297-dc578252-3128-47c0-8085-392cd34ba3bc.png)
+![image](https://user-images.githubusercontent.com/52430965/235405330-25b697bb-509e-47e6-817f-2a6dfca9e7a7.png)
